@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Alejandro Gómez  
+# 👋 Hi, I'm Alejandro Amerisse  
 
 ### **QA Automation Engineer | Mobile · Web · API | BDD · CI/CD**
 
