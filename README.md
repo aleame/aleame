@@ -34,18 +34,6 @@ I'm currently building and expanding my collection of personal automation projec
 
 ---
 
-## 📂 Projects
-
-I’m currently building and publishing personal automation projects.  
-Here’s the first one available in my GitHub:
-
-### 🔸 **Playwright + BDD + Allure Framework**  
-📁 Repository: https://github.com/aleame/playwright-bdd-allure
-
-More projects coming soon 🚀
-
----
-
 ## 🤝 Contact  
 📧 **alejandro.amerisse@gmail.com**  
 🔗 **LinkedIn:** https://www.linkedin.com/in/alejandroamerisse  
