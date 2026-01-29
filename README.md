@@ -7,7 +7,7 @@ I focus on creating scalable, maintainable solutions using **TypeScript/JavaScri
 
 I'm currently building and expanding my collection of personal automation projects here on GitHub.
 
-I'm also a **Linux and open-source enthusiast**.
+I'm also a **Linux enthusiast**.
 
 ---
 
