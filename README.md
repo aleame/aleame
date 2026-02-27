@@ -29,9 +29,12 @@ I'm also a **Linux enthusiast**.
 ![BrowserStack](https://img.shields.io/badge/BrowserStack-FF9900?logo=browserstack&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?logo=postman&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939.svg?logo=jenkins&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?logo=mongodb&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC.svg?logo=jira&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHubActions](https://img.shields.io/badge/-GitHub%20Actions-333333?style=flat&logo=github-actions)
+
 
 ---
 
