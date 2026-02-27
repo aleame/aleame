@@ -18,15 +18,16 @@ I'm also a **Linux enthusiast**.
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white)
 ![Appium](https://img.shields.io/badge/Appium-673AB7.svg?logo=appium&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white)
+![Playwright](https://img.shields.io/badge/🎭_Playwright-2EAD33?logo=playwright&logoColor=white)
 ![WebdriverIO](https://img.shields.io/badge/WebdriverIO-EA5906.svg?logo=webdriverio&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A.svg?logo=selenium&logoColor=white)
 ![Cucumber](https://img.shields.io/badge/Cucumber-23D96C.svg?logo=cucumber&logoColor=white)
+![Allure](https://img.shields.io/badge/📊_Allure-F7DF1E?logo=allure&logoColor=yellow)
 
 ### **Tools & Platforms**
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white)
 ![AWS](https://custom-icon-badges.demolab.com/badge/AWS-232F3E.svg?logo=aws&logoColor=white)
-![BrowserStack](https://img.shields.io/badge/BrowserStack-FF9900?logo=browserstack&logoColor=white)
+![BrowserStack](https://img.shields.io/badge/📱BrowserStack-FF9900?logo=browserstack&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?logo=postman&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939.svg?logo=jenkins&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
