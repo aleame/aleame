@@ -2,19 +2,19 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=2EAD33&center=true&vCenter=true&width=600&lines=👋+Hi,+I'm+Alejandro+Amerisse;QA+Automation+Engineer;Mobile+·+Web+·+API;Linux+Enthusiast" alt="Typing SVG" />
 </div>
 
-### **Building Quality through Automation 🚀**
+### QA Automation Engineer
 
-I'm a **QA Automation Engineer** dedicated to engineering high-quality, scalable automation frameworks. My expertise lies in designing robust solutions for **mobile**, **web**, and **API** ecosystems, ensuring seamless delivery through automated testing and modern **CI/CD** integration.
+I'm a QA Automation Engineer experienced in designing and building automation frameworks for **mobile**, **web**, and **backend** applications. My work focuses on creating maintainable solutions using **TypeScript**, **Playwright**, **Appium**, and **Cucumber**, integrated into **CI/CD** pipelines.
 
-I'm passionate about **Open Source**, **Linux**, and continuous improvement in the QA space.
+I'm a **Linux enthusiast** and I'm currently expanding my collection of automation projects here on GitHub to share my learning and testing strategies.
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=aleame&show_icons=true&theme=dark&icon_color=2EAD33&title_color=2EAD33" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleame&layout=compact&theme=dark&icon_color=2EAD33&title_color=2EAD33" alt="Top Languages" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aleame&theme=radical" alt="GitHub Stats" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aleame&theme=radical" alt="GitHub Stats" />
 </div>
 
 <div align="center">
