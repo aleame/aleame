@@ -12,12 +12,8 @@ I'm a **Linux enthusiast** and I'm currently expanding my collection of automati
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aleame&theme=radical" alt="GitHub Stats" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aleame&theme=radical" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aleame&stroke=ffffff&background=151515&ring=2EAD33&fire=2EAD33&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&currStreakLabel=2EAD33&lb=2EAD33" alt="GitHub Streak" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aleame&theme=radical" alt="GitHub Stats" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=aleame&stroke=ffffff&background=151515&ring=2EAD33&fire=2EAD33&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&currStreakLabel=2EAD33&lb=2EAD33" alt="GitHub Streak" />
 </div>
 
 ---
